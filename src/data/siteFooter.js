@@ -8,12 +8,12 @@ const footerData = {
     {
       id: 1,
       name: "About",
-      href: "#",
+      href: "#services",
     },
     {
       id: 2,
       name: "Our Team",
-      href: "#",
+      href: "#services",
     },
     {
       id: 3,
@@ -32,22 +32,22 @@ const footerData = {
     },
     {
       id: 6,
-      name: "Speed Optimization",
+      name: "Increasing subscribes using our software",
       href: "#",
     },
     {
       id: 7,
-      name: "Marketing Analysis",
+      name: "Marketing Module with leadmodule",
       href: "#",
     },
     {
       id: 8,
-      name: "SEO and Backlinks",
+      name: "Adveritsement manager",
       href: "#",
     },
     {
       id: 9,
-      name: "Content Marketing",
+      name: "Accounting",
       href: "#",
     },
     {
